@@ -1,9 +1,9 @@
 ## Hi there 👋, I'm Tsedalu
-<div class="Stats" style="display: flex;flex-direction:column; justify-content: center;gap=0.5%;">
+
    <img src="https://github-readme-stats.vercel.app/api?username=TsedexAshu08&show_icons=true&theme=dracula&"  width=600px height=400px>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsedexAshu08&layout=compact&theme=dracula&https://github.com/TsedexAshu08/github-readme-stats)" width=600px height=400px>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TsedexAshu08&theme=dark&hide_border=true&theme=chartreuse-dark" width=900px height=400px>
-</div>
+
 
 <h2 align="center">💻🛠️Stuff I'm Proficient in🛠️💻</h2>
 
