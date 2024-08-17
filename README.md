@@ -1,7 +1,7 @@
 ## Hi there 👋
 <div class="Stats" style="display: flex; justify-content: center;">
    <img src="https://github-readme-stats.vercel.app/api?username=TsedexAshu08&show_icons=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsedexAshu08&layout=donut-vertical&https://github.com/TsedexAshu08/github-readme-stats)">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsedexAshu08&layout=donut-horizontal&https://github.com/TsedexAshu08/github-readme-stats)">
 </br>
 </div>
 
@@ -19,7 +19,7 @@
 </div>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nahomnebebe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nahom-alemu-26634b289/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/TsedaluAshenafi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nahom-alemu-26634b289/) 
 
 <img src="https://visitcount.itsvg.in/api?id=TsedexAshu08&icon=5&color=0">
 
