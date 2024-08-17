@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h2>📊 GitHub Stats</h2>
+<h2>🏁 GitHub Stats</h2>
 <div class="Stats" style="display: flex; justify-content: center;gap=0.5%;">
    <img src="https://github-readme-stats.vercel.app/api?username=TsedexAshu08&show_icons=true&theme=dracula&"  height=220px >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsedexAshu08&layout=donut&theme=dracula&https://github.com/TsedexAshu08/github-readme-stats)" height=220px>
