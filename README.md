@@ -17,4 +17,4 @@
   <img height="45rem" width="45rem" style="background-color:red;" src="https://github.com/WebAssembly.png?size=40" />
   <img height="45rem" width="45rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 </div>
-#profile views
+[![](https://visitcount.itsvg.in/api?id=NahomAl&icon=5&color=0)](https://visitcount.itsvg.in)
