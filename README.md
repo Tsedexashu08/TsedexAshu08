@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Tsedalu
 <div class="Stats" style="display: flex; justify-content: center;gap=0.5%;">
    <img src="https://github-readme-stats.vercel.app/api?username=TsedexAshu08&show_icons=true&theme=dracula&"  height=220px >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsedexAshu08&layout=donut&theme=dracula&https://github.com/TsedexAshu08/github-readme-stats)" height=220px>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsedexAshu08&layout=compact&theme=dracula&https://github.com/TsedexAshu08/github-readme-stats)" height=220px>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TsedexAshu08&theme=dark&hide_border=true&theme=chartreuse-dark" width=900px height=400px>
 </br>
 </div>
@@ -19,7 +19,7 @@
   <img height="45rem" width="45rem" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
 </div>
 
-## 🌐 Socials:
+## 📱 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/TsedaluAshenafi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tsedalu-ashenafi-6a9a71201)
 
 
