@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Tsedalu
 
   <a> <img src="https://github-readme-stats.vercel.app/api?username=TsedexAshu08&show_icons=true&theme=dracula&"  ></a>
- <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsedexAshu08&layout=compact&theme=dracula&https://github.com/TsedexAshu08/github-readme-stats)" height=150px > </a>
+ <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsedexAshu08&layout=compact&theme=dracula&https://github.com/TsedexAshu08/github-readme-stats)" height=200px > </a>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TsedexAshu08&theme=dark&hide_border=true&theme=chartreuse-dark" width=900px height=400px>
 
 
