@@ -18,5 +18,8 @@
   <img height="45rem" width="45rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 </div>
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nahomnebebe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nahom-alemu-26634b289/) 
+
 <img src="https://visitcount.itsvg.in/api?id=TsedexAshu08&icon=5&color=0">
 
