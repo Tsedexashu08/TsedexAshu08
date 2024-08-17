@@ -1,6 +1,8 @@
 ## Hi there 👋
 <a><img src="https://github-readme-stats.vercel.app/api?username=TsedexAshu08&show_icons=true"></a>
 <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsedexAshu08&layout=donut-vertical&https://github.com/TsedexAshu08/github-readme-stats)"></a>
+</br>
+<h2 align="center">⚒️ Things I mostly work with</h2>
 
 <div align="center">
 
