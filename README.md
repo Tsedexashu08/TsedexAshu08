@@ -11,13 +11,13 @@
 
 <div align="center">
 
-<p style="display: flex; justify-content: center;">
+<p style="display: flex; justify-content: center; gap: '20px'">
   <img height="45rem" width="45rem" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />
   <img height="45rem" width="45rem" style="background-color:red;" src="https://cdn.worldvectorlogo.com/logos/c.svg" />
   <img height="45rem" width="45rem" style="background-color:red;" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" />
   <img height="45rem" width="45rem" style="background-color:red;" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" />
   <img height="45rem" width="45rem" style="background-color:red;" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" />
-  <img height="45rem" width="45rem" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img height="45rem" width="45rem" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1067px-PHP-logo.svg.png?20180502235434" />
    <img height="45rem" width="45rem" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" />
 </div>
 
