@@ -12,11 +12,11 @@
 <div align="center">
 
 <p style="display: flex; justify-content: center;">
-  <img height="45rem" width="45rem" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img height="45rem" width="45rem" style="background-color:red;" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img height="45rem" width="45rem" style="background-color:red;" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img height="45rem" width="45rem" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />
+  <img height="45rem" width="45rem" style="background-color:red;" src="https://cdn.worldvectorlogo.com/logos/c.svg" />
+  <img height="45rem" width="45rem" style="background-color:red;" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" />
   <img height="45rem" width="45rem" style="background-color:red;" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" />
-  <img height="45rem" width="45rem" style="background-color:red;" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img height="45rem" width="45rem" style="background-color:red;" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" />
   <img height="45rem" width="45rem" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
    <img height="45rem" width="45rem" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" />
 </div>
