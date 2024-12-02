@@ -2,7 +2,7 @@
 
  <div style="display: flex; justify-content: center; flex-direction: row">
     <a> <img src="https://github-readme-stats.vercel.app/api?username=TsedexAshu08&show_icons=true&theme=dracula&" height=100%></a>
-    <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsedexAshu08&langs_count=10&layout=compact&&theme=dracula" width=400px ></a>
+    <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsedexAshu08&langs_count=10&layout=compact&&theme=chartreuse-dark" width=400px ></a>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=TsedexAshu08&theme=dark&hide_border=true&theme=chartreuse-dark" width=900px height=400px>
  </div>
 
