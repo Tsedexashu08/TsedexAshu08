@@ -2,7 +2,7 @@
 
   <a> <img src="https://github-readme-stats.vercel.app/api?username=TsedexAshu08&show_icons=true&theme=dracula&" height=200px ></a>
  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsedexAshu08&langs_count=8&layout=compact&&theme=dracula" ></a>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TsedexAshu08&theme=dark&hide_border=true&theme=chartreuse-dark" width=400px height=400px>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TsedexAshu08&theme=dark&hide_border=true&theme=chartreuse-dark" width=900px height=400px>
 
 
 <h2 align="center">💻🛠️Stuff I work with🛠️💻</h2>
