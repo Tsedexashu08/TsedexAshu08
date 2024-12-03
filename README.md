@@ -12,7 +12,7 @@
 <div align="center">
 
 <p style="display: flex; justify-content: space-evenly; gap: '20px'">
-  <img height="45rem" width="45rem" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />
+  <img height="45rem" width="45rem" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" /></br>
   <img height="45rem" width="45rem" style="background-color:red;" src="https://cdn.worldvectorlogo.com/logos/c.svg" />
   <img height="45rem" width="45rem" style="background-color:red;" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" />
   <img height="45rem" width="45rem" style="background-color:red;" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" />
