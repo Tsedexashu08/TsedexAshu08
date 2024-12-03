@@ -9,7 +9,7 @@
 
 <h2 align="center">💻🛠️Stuff I work with🛠️💻</h2>
 
-<div align="center"  style="display: flex; justify-content: space-evenly; gap: '20px'">
+<div align="center"  style="display: flex; justify-content: space-between; ">
 
 
   <img height="45rem" width="45rem" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />
@@ -19,7 +19,7 @@
   <img height="45rem" width="45rem" style="background-color:red;" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" />
   <img height="45rem" width="45rem" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1067px-PHP-logo.svg.png?20180502235434" />
    <img height="45rem" width="45rem" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" />
-<!--  </p> -->
+
 </div>
 
 ## 📱 Socials:
