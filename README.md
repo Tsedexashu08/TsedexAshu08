@@ -3,7 +3,7 @@
  <div style="display: flex; justify-content: center; flex-direction: row ">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=TsedexAshu08&show_icons=true&theme=github_dark&&rank_icon=github" >
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsedexAshu08&langs_count=10&layout=compact&&theme=github_dark" >
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TsedexAshu08&theme=dark&hide_border=true&theme=chartreuse-dark" width=900px height=400px>
+   [![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=TsedexAshu08)]
  </div>
 
 
