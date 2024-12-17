@@ -7,7 +7,7 @@
     </div>
     <img src="https://streak-stats.demolab.com?user=Tsedexashu08&theme=highcontrast&border_radius=5" style="width: 70%; height: auto; margin: 10px;">
     
- <h2>💻🛠️ Stuff I work with 🛠️💻</h2>
+<h2>💻🛠️ Stuff I work with 🛠️💻</h2>
     <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin: 10px 0;">
         <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C++" style="height: 45px; width: 45px;">
         <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C" style="height: 45px; width: 45px;">
