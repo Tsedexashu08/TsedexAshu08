@@ -1,10 +1,10 @@
-[## Hi there 👋, I'm Tsedalu
+## Hi there 👋, I'm Tsedalu
 
  <div style="display: flex; justify-content: center; flex-direction: row ">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=TsedexAshu08&show_icons=true&theme=github_dark&&rank_icon=github" >
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsedexAshu08&langs_count=10&layout=compact&&theme=github_dark" >
  </div>
-   <img src = "https://streak-stats.demolab.com?user=Tsedexashu08&theme=react&layout=compact">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Tsedexashu08&theme=highcontrast&border_radius=5" alt="GitHub Streak" /></a>
 <h2 align="center">💻🛠️Stuff I work with🛠️💻</h2>
 
 <div align="center"  style="display: flex; justify-content: space-between; margin-left: '15px'">
@@ -26,4 +26,4 @@
 
 <img src="https://visitcount.itsvg.in/api?id=TsedexAshu08&icon=5&color=0">
 
-](url)
+
