@@ -4,9 +4,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=TsedexAshu08&show_icons=true&theme=github_dark&&rank_icon=github" >
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsedexAshu08&langs_count=10&layout=compact&&theme=github_dark" >
  </div>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tsedexashu08)]
-
-
+   <img src = "https://streak-stats.demolab.com?user=Tsedexashu08&theme=react&layout=compact">
 <h2 align="center">💻🛠️Stuff I work with🛠️💻</h2>
 
 <div align="center"  style="display: flex; justify-content: space-between; margin-left: '15px'">
