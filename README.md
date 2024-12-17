@@ -3,8 +3,8 @@
  <div style="display: flex; justify-content: center; flex-direction: row ">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=TsedexAshu08&show_icons=true&theme=github_dark&&rank_icon=github" >
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsedexAshu08&langs_count=10&layout=compact&&theme=github_dark" >
-    < img align="center" src="https://nirzak-streak-stats.vercel.app/?user=Tsedexashu08t&&theme=github_dark">
  </div>
+    < img  src="https://nirzak-streak-stats.vercel.app/?user=Tsedexashu08t&&theme=github_dark">
 
 
 <h2 align="center">💻🛠️Stuff I work with🛠️💻</h2>
