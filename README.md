@@ -6,7 +6,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsedexAshu08&langs_count=10&layout=compact&&theme=github_dark" height=250px width=auto>
  </div>
 
-   <img src="https://streak-stats.demolab.com?user=Tsedexashu08&theme=highcontrast&border_radius=5"  width=1000px>
+   <img src="https://streak-stats.demolab.com?user=Tsedexashu08&theme=highcontrast&border_radius=5" height=auto width=960px>
 
 <h2 align="center">💻🛠️Stuff I work with🛠️💻</h2>
 
