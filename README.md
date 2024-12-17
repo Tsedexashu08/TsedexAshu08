@@ -1,5 +1,50 @@
 ## Hi there 👋, I'm Tsedalu
+<style>
+    .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
 
+.stats-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 10px 0;
+}
+
+.stats-image {
+    max-width: 300px;
+    width: 100%;
+    height: auto;
+    margin: 10px;
+}
+
+.streak-stats {
+    width: 70%;
+    height: auto;
+    margin: 10px;
+}
+
+.tools-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin: 10px 0;
+}
+
+.tool-icon {
+    height: 45px;
+    width: 45px;
+}
+
+.visit-count {
+    margin-top: 10px;
+}
+
+</style>
 <div class="container">
     <div class="stats-container">
         <img src="https://github-readme-stats.vercel.app/api?username=TsedexAshu08&show_icons=true&theme=github_dark&&rank_icon=github" class="stats-image">
