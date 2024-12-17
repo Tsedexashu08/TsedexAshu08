@@ -5,7 +5,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=TsedexAshu08&show_icons=true&theme=github_dark&&rank_icon=github" height=250px width=auto>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsedexAshu08&langs_count=10&layout=compact&&theme=github_dark" height=250px width=auto>
  </div>
-<img src = "https://streak-stats.demolab.com?user=Tsedexashu08&theme=highcontrast&border_radius=5" width=auto>
+<img src = "https://streak-stats.demolab.com?user=Tsedexashu08&theme=highcontrast&border_radius=5" height=auto width=600px>
 <h2 align="center">💻🛠️Stuff I work with🛠️💻</h2>
 
 <div align="center"  style="display: flex; justify-content: space-between; margin-left: '15px'">
