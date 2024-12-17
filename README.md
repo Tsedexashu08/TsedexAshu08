@@ -3,8 +3,8 @@
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
  
  <div style="display: flex; justify-content: center; flex-direction: row ">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=TsedexAshu08&show_icons=true&theme=github_dark&&rank_icon=github" style="max-width: 300px; width: 100%; height: auto;" /> >
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsedexAshu08&langs_count=10&layout=compact&&theme=github_dark" style="max-width: 300px; width: 100%; height: auto;" /> >
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=TsedexAshu08&show_icons=true&theme=github_dark&&rank_icon=github" max-width: 300px; width: 100%; height: auto;" /> >
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsedexAshu08&langs_count=10&layout=compact&&theme=github_dark" max-width: 300px; width: 100%; height: auto;" /> 
  </div>
 <img src="https://streak-stats.demolab.com?user=Tsedexashu08&theme=highcontrast&border_radius=5" width: 70%; height: auto;/>
 
