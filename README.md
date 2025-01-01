@@ -10,7 +10,7 @@
 
 <h2 align="center">💻🛠️Stuff I work with🛠️💻</h2>
 
-<div align="center"  style="display: flex; justify-content: space-between; margin-left: '15px'">
+<div align="center"  style="display: flex; justify-content: space-between; margin-left: '15px' ">
 
 
   <img height="45rem" width="45rem" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />
