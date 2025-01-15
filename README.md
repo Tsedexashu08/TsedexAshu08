@@ -1,11 +1,11 @@
 ## Hi there 👋, I'm Tsedalu
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column ">
- 
+ <div>
     <img  src="https://github-readme-stats.vercel.app/api?username=Tsedexashu08&show_icons=true&theme=github_dark&&rank_icon=github" height=250px width=auto
 >
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsedexashu08&langs_count=10&layout=compact&&theme=github_dark" height=220px width=auto
 >
- 
+ </div>
 
 
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=Tsedexashu08&theme=highcontrast" height=250px width=auto>
