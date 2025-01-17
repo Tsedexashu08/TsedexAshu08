@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Tsedalu
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; gap:20px;  padding:2%;">
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; gap:40px;  padding:2%;">
  <div>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tsedexashu08&show_icons=true&theme=github_dark&&rank_icon=github" height=250px width=100%
 >
@@ -8,7 +8,7 @@
  </div>
 
 
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=Tsedexashu08&theme=highcontrast" height=250px width=100%>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Tsedexashu08&theme=highcontrast" height=250px width=100% margin=auto;>
 
 <h2 align="center">💻🛠️Stuff I work with🛠️💻</h2>
 
