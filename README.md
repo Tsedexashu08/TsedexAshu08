@@ -1,6 +1,5 @@
 <h1 align="center">Hello World 👋, I'm Tsedalu</h1>
-<h3 align="center">Junior Fullstack Developer | Crafting Digital Solutions from Ethiopia</h3>
-
+<h4 align="center">Junior Fullstack Developer | Crafting Digital Solutions from Ethiopia</h4>
 <br>
 
 <div align="center">
@@ -22,7 +21,7 @@ I believe in continuous learning and collaboration, and I'm always excited to co
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/tsedalu-ashenafi" target="blank">
+  <a href="https://www.linkedin.com/in/tsedalu-ashenafi-868120370" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tsedalu ashenafi" height="30" width="40" />
   </a>
   <a href="https://instagram.com/tsedaluashenafi" target="blank">
@@ -84,6 +83,7 @@ I believe in continuous learning and collaboration, and I'm always excited to co
 
 <div align="center">
 
-### ⚡ **Fun Fact:** I code, therefore I am! 
+### 🤝 **Let's Build Together!** 
+*Open to collaborations and new opportunities*
 
 </div>
