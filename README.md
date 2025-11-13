@@ -1,22 +1,19 @@
 <h1 align="center">Hey there 👋, I'm Tsedalu</h1>
-<h3 align="center"> Software Developer | Crafting Digital Solutions from Ethiopia</h3>
-
-<br>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=tsedexashu08&label=Profile%20views&color=0e75b6&style=flat)
-  
-</div>
+<h5 align="center"> Software Developer | Crafting Digital Solutions from Ethiopia</h5>
 
 ---
 
 ## 👨‍💻 About Me
 
+
 I'm a passionate junior fullstack developer with a strong foundation in both front-end and back-end technologies. I thrive on transforming complex problems into elegant, user-friendly solutions. Currently, I'm focused on expanding my expertise in modern JavaScript frameworks and building impactful projects that solve real-world challenges.
 
 I believe in continuous learning and collaboration, and I'm always excited to contribute to innovative projects while growing as a developer.
+ <span align="center">
 
+![Profile Views](https://komarev.com/ghpvc/?username=tsedexashu08&label=Profile%20views&color=0e75b6&style=flat)
+  
+</span>
 ---
 
 ## 📫 Let's Connect & Collaborate
